@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! Based in Peru (LatAm), I am a seasoned Tech Lead AI/ML Engineer with a specialization and solid background (math and programming) in advanced artificial intelligence and machine learning solutions. I worked as a contractor with companies and startups across the USA and Europe (full-time).
 
-With over five years of experience, I specialize in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, (Deep) Reinforcement Learning, and Natural Language Processing (NLP). For the past 3 years, I have focused on Generative AI (LLMs), addressing complex commercial challenges. My solutions leverage Cloud Computing (AWS, GCP, Azure) and Edge Computing (NVIDIA Jetson Nano, Raspberry Pi).
+With over 5 years of experience, I specialize in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, (Deep) Reinforcement Learning, and Natural Language Processing (NLP). For the past 3 years, I have focused on Generative AI (LLMs), addressing complex commercial challenges. My solutions leverage Cloud Computing (AWS, GCP, Azure) and Edge Computing (NVIDIA Jetson Nano, Raspberry Pi).
 
 I have led numerous analytics and software projects across variety of sectors, including Retail, Banking, Telecommunications, Mining, Energy, and Education.
 
@@ -23,12 +23,12 @@ I am proactive, a strong team player, and skilled in leadership, with a commitme
 **Pontifical Catholic University of Peru (PUCP)**
 <br/>Diploma in Application Development with Artificial Intelligence Specialization
 <br/>Strong focus on:
+<br/> - _Deep Reinforcement Learning applied to Video Games._
+<br/> - _Industrial optimization using Bio-Inspired Computing._
 <br/> - _Natural Language Processing applied to Sentiment Analysis in Social Networks_
 <br/> - _Conversational Chatbot design with Traditional AI and Generative AI._
 <br/> - _Deep Learning techniques for Advanced Computer Vision._
 <br/> - _Deep Learning for Time Series Analysis._
-<br/> - _Deep Reinforcement Learning applied to Video Games._
-<br/> - _Industrial optimization using Bio-Inspired Computing._
 <br/>Sept, 2024 – Current
 
 **Massachusetts Institute of Technology (MITx) - edX**
