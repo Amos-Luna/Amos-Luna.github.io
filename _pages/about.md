@@ -10,13 +10,19 @@ redirect_from:
 
 ## Presentation
 
-Hi! Based in Peru (LatAm), I am a seasoned Tech Lead AI/ML Engineer with a specialization and solid background (math and programming) in advanced artificial intelligence and machine learning solutions. I worked as a contractor with companies and startups across the USA and Europe (full-time).
+Hi! Based in Peru (LatAm), I am an experienced AI/ML Technical Lead and AI Software Engineer working remotely with companies and startups across the USA and Europe as Contractor.
 
-With over 5 years of experience, I specialize in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, (Deep) Reinforcement Learning, and Natural Language Processing (NLP). For the past 3 years, I have focused on Generative AI (LLMs), addressing complex commercial challenges. My solutions leverage Cloud Computing (AWS, GCP, Azure) and Edge Computing (NVIDIA Jetson Nano, Raspberry Pi).
+With over 5 years of hands-on experience, I specialize in building intelligent systems and solving optimization problems using Artificial Intelligence, Machine Learning, Computer Vision, NLP, (Deep) Reinforcement Learning and Bio-Inspired Computing and Genetic Algorithms for industrial applications (supermarket location planning - class schedule optimization - airport gate assignment)
 
-I have led numerous analytics and software projects across variety of sectors, including Retail, Banking, Telecommunications, Mining, Energy, and Education.
+In the last 3 years, my focus has shifted toward Generative AI, where I’ve designed and deployed advanced LLM-powered solutions—including Graph-based Multi-Agent Systems, Agentic/Graph RAG and MCP — to tackle real-world business challenges.
 
-I am proactive, a strong team player, and skilled in leadership, with a commitment to continuous learning and professional growth.
+Beyond AI, I bring strong expertise in backend development, building scalable and maintainable systems following software engineering best practices. I’ve led the development of robust AI-powered APIs and architected serverless, microservices, and hexagonal systems fully integrated into production pipelines.
+
+My background also includes Cloud Engineering (AWS, GCP, Azure) and Edge AI (NVIDIA Jetson Nano, Raspberry Pi), along with experience in DevOps and MLOps, ensuring smooth Infrastructure (IaC terraform), CI/CD/CT workflows and reliable AI/ML model deployment.
+
+I’ve successfully led data analytics, data science/engineer and software projects in industries such as Retail, Banking, Telecom, Mining, Energy, Education and Media.
+
+I thrive in dynamic, collaborative environments, always aiming to deliver scalable, impactful tech—backed by clean code, sound architecture, and continuous learning.
 
 ## Education:
 
@@ -29,7 +35,7 @@ I am proactive, a strong team player, and skilled in leadership, with a commitme
 <br/> - _Conversational Chatbot design with Traditional AI and Generative AI._
 <br/> - _Deep Learning techniques for Advanced Computer Vision._
 <br/> - _Deep Learning for Time Series Analysis._
-<br/>Sept, 2024 – Current
+<br/>Sept, 2024 – Abr, 2025
 
 **Massachusetts Institute of Technology (MITx) - edX**
 <br/>MicroMasters program in Statistics and Data Science

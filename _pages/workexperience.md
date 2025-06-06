@@ -10,8 +10,20 @@ redirect_from:
 
 # Work Experiences:
 
+**Distillery** - _Senior AI Engineer_
+<br/>Feb 2025 – Present
+
+- Designed and implemented a multi-agent serverless system integrated with Slack and Databricks to support natural language business queries.
+- Enabled non-technical stakeholders to retrieve KPIs, metrics, and BI insights directly via Slack through conversational queries.
+- Developed a 4 collaborative-agents architecture: Supervisor Agent (task router), Genie Agent (data insight agent powered by Databricks), Formatter Agent (structures query results), Default Agent (handles general-purpose queries).
+- Implemented context-aware routing so the system could intelligently forward requests to the appropriate agent based on the query type.
+- Queries performed live table lookups and returned: A user-friendly web link to the resulting data - The SQL query used - A summarized insight or analysis of the data.
+- Allowed users to schedule KPI/metric reports directly from Slack (e.g., “every Monday at 9am”).
+- Ensured the system delivered production-ready, maintainable, and scalable code using Python under SOLID principles and clean architecture best practices.
+- Tech Stack: LangGraph, LangChain, Slack API, Databricks Genie Agent, AWS Lambda, EventBridge, Python, Airflow (for scheduling), Terraform as IaC, etc.
+
 **Andela (EEUU)** – _Senior GenAI Engineer_
-<br/>Feb, 2024 – Present
+<br/>Feb, 2024 – Feb, 2025
 
 - Led the research and design a custom workflow of cycle agents using LangGraph and tracing/monitoring with LangSmith (LangStack) into Azure Cloud with serverless, microservices software approach and LLMOps.
 - Built naive RAG and agentic RAG systems supported into Azure Cloud (AI Studio, Az. Functions, Cognitive Search, etc) to talk to agents about custom documents and share information.

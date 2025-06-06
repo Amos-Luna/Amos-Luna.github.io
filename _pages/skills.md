@@ -22,18 +22,19 @@ redirect_from:
   - Tensorflow
   - PyTorch
   - OpenCV
+  - Ffmpeg
   - NLTK/Spacy
   - Scrapy
 - **Data Processing and Analysis**
   - Pandas, Numpy, Polars, PySpark
   - Snowflake, PostgreSQL
-  - MongoDB
+  - MongoDB, CosmosDB
 - **Cloud & Edge Computing**
   - AWS (S3, Redshift, Lambda, EC2, Glue, SageMaker, Bedrock, etc)
   - GCP (Vertex AI, AutoML, BigQuery, APIs, etc)
   - Azure (Azure AI Studio, Azure Functions, Azure Cognitive Search, Azure Container Instance, Load Balancer, APIs, etc)
   - Edge Devices (NVIDIA Jetson Nano, Raspberry Pi)
-- **MLOps & LLMOps**
+- **DevOps, MLOps & LLMOps**
   - FastAPI
   - Docker
   - Airflow
@@ -44,11 +45,14 @@ redirect_from:
   - Grafana (retraining triggers, model drift, monitor metrics)
   - Prometheus (for distributed ML Systems)
 - **Generative AI & LangStack**
+  - Semantic Kernel
   - LangChain, LangGraph, LangSmith
   - Agentic Design Patterns
   - Naive RAG, Agentic RAG, Graph RAG
-  - Neo4j, Pinecone, Qdrant, Azure Cognitive Search - Graph/Vector Databases.
+  - Neo4j, Pinecone, Qdrant, Azure AI Cognitive Search - Graph/Vector Databases.
   - LLM Providers used: OpenAI, Anthropic, Meta (models and embeddings)
+  - Fune-tuning for custom model behaviors
+  - Function Calling and MCPs
 - **Data Engineering & ETL Pipelines**
   - Data Mining, Wrangling, and Cleaning
   - Web Scraping

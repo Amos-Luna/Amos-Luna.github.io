@@ -12,6 +12,18 @@ redirect_from:
 
 _All certification files are available on my LinkedIn profile. Please visit it if you need to validate some certification._
 
+**Microsoft Certified: Azure AI Engineer Associate**
+<br/>Microsoft Certification - Azure Cloud
+<br/>Feb, 2025
+
+**Advanced Multimodal RAG: Images, Audios and Text**
+<br/>Short Course - DeepLearning.ai
+<br/>Jun, 2024
+
+**AI Agents in LangGraph**
+<br/>Short Course - DeepLearning.ai
+<br/>March, 2024
+
 **Pricing Analytics**
 <br/>Specialization - Data Mining Consulting
 <br/>Nov, 2023
